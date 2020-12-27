@@ -152,5 +152,3 @@ D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWe
 D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.csproj.CoreCompileInputs.cache
-D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.MvcApplicationPartsAssemblyInfo.cache
