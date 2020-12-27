@@ -22,9 +22,16 @@ namespace MovieRatingBackend.Controllers
 
         // GET: api/Watchlists
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Watchlist>>> GetWatchlists()
+        public async Task<ActionResult<IEnumerable<Watchlist>>> GetWatchlists(string userID)
         {
-            return await _context.Watchlists.ToListAsync();
+            var watchlist = await _context.Watchlists
+                .Where(b => b.UserId.Contains(userID))
+                .ToListAsync();
+            if(watchlist == null)
+            {
+                return NotFound();
+            }
+            return watchlist;
         }
 
         // GET: api/Watchlists/5

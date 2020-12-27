@@ -22,9 +22,16 @@ namespace MovieRatingBackend.Controllers
 
         // GET: api/Reactions
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Reaction>>> GetReactions()
+        public async Task<ActionResult<IEnumerable<Reaction>>> GetReactions(string imdbID)
         {
-            return await _context.Reactions.ToListAsync();
+            var reactions = await _context.Reactions
+                .Where(b => b.ImdbId.Contains(imdbID))
+                .ToListAsync();
+            if(reactions == null)
+            {
+                return NotFound();
+            }
+            return reactions;
         }
 
         // GET: api/Reactions/5

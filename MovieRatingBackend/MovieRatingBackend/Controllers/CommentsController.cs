@@ -22,9 +22,16 @@ namespace MovieRatingBackend.Controllers
 
         // GET: api/Comments
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Comment>>> GetComments()
+        public async Task<ActionResult<IEnumerable<Comment>>> GetComments(string imdbID)
         {
-            return await _context.Comments.ToListAsync();
+            var comments = await _context.Comments
+                .Where(b => b.ImdbId.Contains(imdbID))
+                .ToListAsync();
+            if(comments == null)
+            {
+                return NotFound();
+            }
+            return comments;
         }
 
         // GET: api/Comments/5
