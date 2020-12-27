@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywDG8hRO2L05vhyF5WP8jgSCFzk5ffarWiTJPo4KaRFBWi1MHeKUMWm9wlOjz8nXINLUMIEe/dsHbTNAXHwcyw==",
+  "success": true,
+  "projectFilePath": "D:\\jorge\\Documents\\Universidad\\Práctica Profesional\\Acklen Avenue\\MovieRatingWebsiteBackend\\MovieRatingBackend\\MovieRatingBackend\\MovieRatingBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
