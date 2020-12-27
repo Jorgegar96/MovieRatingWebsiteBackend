@@ -51,3 +51,13 @@ D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWe
 D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.csproj.CopyComplete
 D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\Humanizer.dll
 D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\MovieRatingBackend.deps.json
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\MovieRatingBackend.runtimeconfig.json
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\MovieRatingBackend.runtimeconfig.dev.json
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\MovieRatingBackend.dll
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\bin\Debug\netcoreapp3.1\MovieRatingBackend.pdb
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.csproj.CoreCompileInputs.cache
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.dll
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.pdb
+D:\jorge\Documents\Universidad\Práctica Profesional\Acklen Avenue\MovieRatingWebsiteBackend\MovieRatingBackend\MovieRatingBackend\obj\Debug\netcoreapp3.1\MovieRatingBackend.genruntimeconfig.cache
